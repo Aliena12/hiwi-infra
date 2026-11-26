@@ -1,0 +1,6 @@
+# Secrets NIE committen
+.env
+secrets/
+*.key
+# Aider-Artefakte
+.aider*

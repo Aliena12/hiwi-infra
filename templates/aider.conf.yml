@@ -1,0 +1,3 @@
+model: openai/alias.complex-local
+read: PROJECT.md
+auto-commits: true
